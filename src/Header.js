@@ -14,10 +14,10 @@ const Header = () => {
                 {/* <Link to={`/register`}>
                     <div className='linkContainer spanHeader'><span>Register</span></div>
                 </Link> */}
-                <div className='linkContainer spanHeader'><span>About</span></div>
-                <div className='linkContainer spanHeader'><span>Skills</span></div>
-                <div className='linkContainer spanHeader'><span>Projects</span></div>
-                <div className='linkContainer spanHeader'><span>Contact</span></div>
+                <a href="#About"><div className='linkContainer spanHeader'><span>About</span></div></a>
+                <a href="#Technologies"><div className='linkContainer spanHeader'><span>Technologies</span></div></a>
+                <a href="#Projects"><div className='linkContainer spanHeader'><span>Projects</span></div></a>
+                <a href="#Contact"><div className='linkContainer spanHeader'><span>Contact</span></div></a>
             </div>
         </header>
     );

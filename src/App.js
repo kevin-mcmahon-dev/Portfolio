@@ -1,6 +1,8 @@
 import Header from "./Header.js"
 import About from "./About.js"
 import Technologies from "./Technologies.js"
+import Projects from "./Projects.js"
+import Contact from "./Contact.js"
 
 function App() {
   return (
@@ -8,8 +10,8 @@ function App() {
       <Header/>
       <About/>
       <Technologies/>
-      <h1>Projects</h1>
-      <h1>Contact</h1>
+      <Projects/>
+      <Contact/>
     </div>
   );
 }

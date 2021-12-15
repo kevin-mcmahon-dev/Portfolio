@@ -1,0 +1,15 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+ .contact-header {
+    font-size: 40px;
+}
+.contact-content {
+    font-size: 30px;
+} 
+.icon-container i {
+    color: black;
+    font-size: 52px;
+}

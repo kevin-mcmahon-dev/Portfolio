@@ -5,6 +5,7 @@
     display: block;
     width: 100%;
     position: relative;
+    margin-bottom: 2vh;
 }
 i {
     font-size: 180px;

@@ -6,18 +6,14 @@ const Header = () => {
     return (
         <header>
             <div className='logo'>
-            {/* <Link to={`/`}> */}
-                <div className='spanHeader'><span>Kevin McMahon Site</span></div>
-            {/* </Link> */}
+                <div className='spanHeader'>Kevin McMahon - Full-Stack Developer</div>
             </div>
             <div className='links'>
-                {/* <Link to={`/register`}>
-                    <div className='linkContainer spanHeader'><span>Register</span></div>
-                </Link> */}
-                <a href="#About"><div className='linkContainer spanHeader'><span>About</span></div></a>
-                <a href="#Technologies"><div className='linkContainer spanHeader'><span>Technologies</span></div></a>
-                <a href="#Projects"><div className='linkContainer spanHeader'><span>Projects</span></div></a>
-                <a href="#Contact"><div className='linkContainer spanHeader'><span>Contact</span></div></a>
+                <a href="#About"><div className='linkContainer spanHeader'>About</div></a>
+                <a href="#Technologies"><div className='linkContainer spanHeader'>Technologies</div></a>
+                <a href="#Projects"><div className='linkContainer spanHeader'>Projects</div></a>
+                <a href="#Contact"><div className='linkContainer spanHeader'>Contact</div></a>
+                <a href="https://github.com/kevin-mcmahon-dev/Portfolio/files/7722499/Kevin.McMahon.-.Resume.Dec.2021.pdf" target="_blank"><div className='linkContainer spanHeader'>Resume</div></a>
             </div>
         </header>
     );

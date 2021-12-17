@@ -5,9 +5,13 @@
 }
  .contact-header {
     font-size: 40px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 .contact-content {
     font-size: 30px;
+    margin-bottom: 2vh;
+    font-weight: normal;
 } 
 .icon-container i {
     color: black;

@@ -12,7 +12,7 @@ const Contact = () => {
                     <li><a href="https://github.com/kevin-mcmahon-dev" target="_blank"><i class="fab fa-github"></i></a></li>
                     {/* <li><i class="fab fa-facebook"></i></li> */}
                     <li><a href="mailto: kevinmcm1229@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
-                    <li><a href="https://github.com/kevin-mcmahon-dev/Portfolio/files/7722499/Kevin.McMahon.-.Resume.Dec.2021.pdf" target="_blank"><i class="far fa-file"></i></a></li>
+                    <li><a href="https://github.com/kevin-mcmahon-dev/kevin-mcmahon-dev.github.io/files/7803871/Kevin.McMahon.-.Resume.Jan.2022.pdf" target="_blank"><i class="far fa-file"></i></a></li>
                 </ul>
             </div>
         </div>

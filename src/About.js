@@ -4,7 +4,7 @@ const About = () => {
 
     return (
         <div id="About" className="container">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGR0PfBU0HYKA/profile-displayphoto-shrink_800_800/0/1607123434137?e=1645056000&v=beta&t=O9TNjzHinKKTAGwCI1h9Q-xFGPCK0WiUzGL6QADPYfg" className="profile-image"></img>
+            <img src="https://user-images.githubusercontent.com/75190250/155825960-4cc258dd-6879-46d5-b0f3-c3d601d80814.png" className="profile-image"></img>
             <div className="about-container">
                 {/* <h1 className="header">About me:</h1> */}
                 {/* <p className="content">Hi I'm Kevin McMahon! I'm a full-stack software engineer with a background in petroleum engineering and commercial property risk analysis. My experience affords me a unique perspective when approaching development. I love collaborating with others to transform ideas into actualities.</p>

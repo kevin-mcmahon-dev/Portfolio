@@ -8,7 +8,7 @@ const Projects = () => {
             <section className="project-section">
                 <img className="project-image" src="https://user-images.githubusercontent.com/75190250/155826137-be1c66ce-7df0-4ef8-8148-0dc96108595d.png" alt="Shine image"></img>
                 <div className="project-detail">   
-                    <h1 className="project-title">Shine - Messaging App<a href="https://shine-messaging.netlify.app/" target="_blank">Live</a> | Code - <a href="https://github.com/kevin-mcmahon-dev/Shine-Frontend" target="_blank">Frontend</a> / <a href="https://github.com/kevin-mcmahon-dev/Shine-Server" target="_blank">Backend</a></h1>
+                    <h1 className="project-title">Shine - Messaging App - <a href="https://shine-messaging.netlify.app/" target="_blank">Live</a> | Code - <a href="https://github.com/kevin-mcmahon-dev/Shine-Frontend" target="_blank">Frontend</a> / <a href="https://github.com/kevin-mcmahon-dev/Shine-Server" target="_blank">Backend</a></h1>
                     <h2 className="tech-list">Javascript, Node, Express, MongoDB, React</h2>
                     <ul>
                         <li>Created a MERN Stack application that allows users to message in one-to-one chat conversations</li>
@@ -20,7 +20,7 @@ const Projects = () => {
             <section className="project-section">
                 <img className="project-image" src="https://user-images.githubusercontent.com/75190250/155826156-63adecbd-fc59-40ad-b781-24f095c7c28a.png" alt="Outta Pocket image"></img>
                 <div className="project-detail">   
-                    <h1 className="project-title">Outta-Pocket<a href="https://outta-pocket.netlify.app/" target="_blank">Live</a> | Code - <a href="https://github.com/moriarty83/frontend-conspuent-eum" target="_blank">Frontend</a> / <a href="https://github.com/moriarty83/backend-conspuent-eum" target="_blank">Backend</a></h1>
+                    <h1 className="project-title">Outta-Pocket - <a href="https://outta-pocket.netlify.app/" target="_blank">Live</a> | Code - <a href="https://github.com/moriarty83/frontend-conspuent-eum" target="_blank">Frontend</a> / <a href="https://github.com/moriarty83/backend-conspuent-eum" target="_blank">Backend</a></h1>
                     <h2 className="tech-list">Javascript, Node, Express, MongoDB, React, Material UI</h2>
                     <ul>
                         <li>Developed a financial education application as part of a three-day hackathon</li>
